@@ -28,6 +28,17 @@ ul {
   margin-right: auto;
   width: 50%;
 }
+
+.black-background {
+  background-color: black;
+  color: azure;
+}
+
+.white-background {
+  background-color: white;
+  color: black;
+}
+
 body {
   background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Swedish_police_dogs.jpg/1024px-Swedish_police_dogs.jpg)
     no-repeat center center fixed;
