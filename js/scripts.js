@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("button#lightswitch").click(function() {
+  $("button#darkswitch").click(function() {
     $("body").removeClass();
     $("body").addClass("black-background");
   });

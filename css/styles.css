@@ -4,23 +4,23 @@
   border: 2px solid white;
 }
 
-p {
+/* p {
   color: white;
-}
+} */
 
 h1 {
   text-align: center;
   font-family: impact;
-  color: white;
+  /* color: white; */
 }
 
 h3 {
   text-align: center;
-  color: white;
+  /* color: white; */
 }
 
 ul {
-  color: white;
+  /* color: white; */
 }
 .banner {
   display: block;
@@ -39,8 +39,12 @@ ul {
   color: black;
 }
 
-body {
+button {
+  color: black;
+}
+
+/* body {
   background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Swedish_police_dogs.jpg/1024px-Swedish_police_dogs.jpg)
     no-repeat center center fixed;
   background-size: cover;
-}
+} */
