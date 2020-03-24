@@ -22,13 +22,14 @@ h3 {
 ul {
   color: white;
 }
-.banner{
+.banner {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-html {
-  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Swedish_police_dogs.jpg/1024px-Swedish_police_dogs.jpg) no-repeat center center fixed;
+body {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Swedish_police_dogs.jpg/1024px-Swedish_police_dogs.jpg)
+    no-repeat center center fixed;
   background-size: cover;
 }
